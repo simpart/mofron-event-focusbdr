@@ -1,10 +1,13 @@
 {
   "name": "mofron-event-focusbdr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "focus border event for mofron",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mofron-event-focus" : ""
   },
   "repository": {
     "type": "git",
